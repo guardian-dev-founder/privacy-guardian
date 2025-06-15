@@ -54,7 +54,8 @@ Suggestions, code improvements, or ideas will go through an approval process bef
 This project is licensed under the **Mozilla Public License 2.0** (MPL 2.0).  
 You are free to use, modify, and redistribute the code, provided that any changes to the original source files are also shared under the same license.
 
-- 📂 **Source Code**: [MPL 2.0](https://www.mozilla.org/MPL/2.0/)
-- 🎨 **Documentation & Media**: Licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- 📂 **Source Code License**: [MPL 2.0](https://www.mozilla.org/MPL/2.0/)
+- 🎨 **Documentation & Media**: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-© 2025 Guardian Dev Founder
+© 2025 Guardian Dev Founder  
+🔗 [Project GitHub Repository](https://github.com/guardian-dev-founder/privacy-guardian)
