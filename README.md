@@ -1,61 +1,46 @@
 # 🛡️ Privacy Guardian
 
-**Privacy Guardian** is a community-driven, on-device privacy firewall designed to block unauthorized access to personal data — including mic, camera, and storage — across all apps and platforms. Inspired by antivirus software, it works offline, protects user data in real-time, and only sends necessary information with your permission.
+> **“Antivirus protects your device. Privacy Guardian protects *you*.
+> AI-proof. Leak-proof. Privacy-first.”**
+
+**Privacy Guardian** is a privacy-first, on-device tool that works like an antivirus — but for your personal data. It blocks unauthorized access to your mic, camera, and sensitive information. Core features run entirely offline, with optional hybrid updates.
 
 ---
 
-## 🔍 Vision
+## 🔍 What It Does
 
-- Full **control over your digital footprint**
-- **No hidden tracking**, recording, or data scraping
-- Like an antivirus — but for your **privacy**
-- Works across devices, browsers, and apps
-- Offers real-time alerts and total transparency
-
----
-
-## 🧠 Key Features (Planned)
-
-- ✅ **On-device privacy enforcement**
-- 🎙️ Mic & 📷 camera kill-switches
-- 🧠 Smart behavior analysis (offline)
-- 🔄 Privacy rules update without sending your data
-- 🛠️ Integration-ready for apps, OS, and browsers
-- 🌐 Hybrid model: community code reviews, founder-led approvals
+- 🛑 Kill-switch for mic & camera  
+- ⚠️ Real-time alerts on data access  
+- 🧠 Smart local engine for detecting suspicious behavior  
+- 📴 No internet access required for core functions  
+- 🔄 Hybrid update model for definitions (rules updated via community-reviewed pull requests — *no personal data is ever sent*)  
+- 🧱 Works like a firewall for your privacy
 
 ---
 
-## 📢 Project Status
+## 📍 Why It Matters
 
-🔧 Early idea stage  
-📘 Currently assembling resources and planning open development
-
----
-
-## 🤝 Contribute
-
-This will become an **open hybrid project**.  
-Suggestions, code improvements, or ideas will go through an approval process before merging.
-
-> Want to get involved early? Star ⭐ this repo and stay tuned.
+In an age where AI, apps, and smart devices constantly listen, track, and analyze — **Privacy Guardian** puts *you* back in control.
 
 ---
 
-## 💬 Founder
+## 📂 Project Roadmap
 
-**Name**: Guardian Dev (aka Yash)
-**Role**: Founder & Vision Creator  
-**GitHub**: [`guardian-dev-founder`](https://github.com/guardian-dev-founder)
+Check the [Roadmap](https://github.com/guardian-dev-founder/privacy-guardian/blob/main/ROADMAP.md) for our phase-wise goals and contributor roles.
 
 ---
 
-## 🛡 License
+## 🚀 Join the Mission
 
-This project is licensed under the **Mozilla Public License 2.0** (MPL 2.0).  
-You are free to use, modify, and redistribute the code, provided that any changes to the original source files are also shared under the same license.
+Contributions, ideas, and feedback are welcome. Let’s build the privacy tool we all deserve — together.
 
-- 📂 **Source Code License**: [MPL 2.0](https://www.mozilla.org/MPL/2.0/)
-- 🎨 **Documentation & Media**: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+> GitHub: https://github.com/guardian-dev-founder/privacy-guardian  
+> Founder: @guardian-dev-founder
 
-© 2025 Guardian Dev Founder  
-🔗 [Project GitHub Repository](https://github.com/guardian-dev-founder/privacy-guardian)
+---
+
+## 📄 License
+
+[Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/)  
+Your privacy, your rules — protected by open source.
+
