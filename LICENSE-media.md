@@ -11,4 +11,4 @@ Under the following terms:
 
 Full License: https://creativecommons.org/licenses/by/4.0/
 
-Author: Yash Chauhan (guardian-dev-founder)
+Author: Guardian Dev Founder
