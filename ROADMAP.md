@@ -1,5 +1,7 @@
 # 🛣️ Privacy Guardian – Project Roadmap
 
+> **“Antivirus protects your device. Privacy Guardian protects *you*. AI-proof. Leak-proof. Privacy-first.”**
+
 This roadmap outlines the planned features, development stages, and contribution goals for **Privacy Guardian** — a privacy-first tool that works like an antivirus for your personal data.
 
 ---
@@ -8,9 +10,10 @@ This roadmap outlines the planned features, development stages, and contribution
 
 To build an on-device, community-powered privacy tool that:
 - Blocks unauthorized mic, camera, and data access  
-- Works fully offline  
+- Works fully offline for core operations  
 - Alerts users in real time  
 - Never leaks or uploads personal data  
+- Uses a **hybrid model** only for rule/definition updates — no personal data is ever sent  
 
 ---
 
@@ -35,7 +38,7 @@ To build an on-device, community-powered privacy tool that:
 ### 🌍 Phase 3: Community Contribution System
 - Let developers suggest rule/code updates (pull requests)  
 - Hybrid control model: all contributions reviewed before being merged  
-- Non-invasive update delivery for rule engine  
+- Non-invasive update delivery for rule engine (via hybrid update mechanism)  
 
 ---
 
