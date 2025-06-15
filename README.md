@@ -43,7 +43,7 @@ Suggestions, code improvements, or ideas will go through an approval process bef
 
 ## 💬 Founder
 
-**Name**: Yash Chauhan  
+**Name**: Guardian Dev (aka Yash)
 **Role**: Founder & Vision Creator  
 **GitHub**: [`guardian-dev-founder`](https://github.com/guardian-dev-founder)
 
